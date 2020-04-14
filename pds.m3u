@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1,CCTV-1高清1
-https://iptv.tsinghua.edu.cn/hls/cctv1hd.m3u8
+http://iptv.tsinghua.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV-1高清2
-https://iptv.tsinghua.edu.cn/hls/cctv2hd.m3u8
+http://iptv.tsinghua.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1,CCTV-1高清
 http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV-2高清
