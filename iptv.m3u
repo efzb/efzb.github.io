@@ -1,0 +1,336 @@
+﻿#EXTM3U url-logos="https://efzb.github.io/icon/"
+#EXTINF:-1,tvg-logo="CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="高清频道",CCTV-1高清
+https://iptv.tsinghua.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="高清频道",CCTV-2高清
+https://iptv.tsinghua.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="高清频道",CCTV-3高清
+https://iptv.tsinghua.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="高清频道",CCTV-4高清
+https://iptv.tsinghua.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="高清频道",CCTV-5高清
+https://iptv.tsinghua.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="高清频道",CCTV-5+高清
+https://iptv.tsinghua.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1,tvg-logo="CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="高清频道",CCTV-6高清
+https://iptv.tsinghua.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="高清频道",CCTV-7高清
+https://iptv.tsinghua.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="高清频道",CCTV-8高清
+https://iptv.tsinghua.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="高清频道",CCTV-9高清
+https://iptv.tsinghua.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="高清频道",CCTV-10高清
+https://iptv.tsinghua.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV12.png" tvg-id="12" tvg-name="CCTV12" group-title="高清频道",CCTV-12高清
+https://iptv.tsinghua.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV14.png" tvg-id="13" tvg-name="CCTV14" group-title="高清频道",CCTV-14高清
+https://iptv.tsinghua.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1,tvg-logo="CCTV17.png" tvg-id="14" tvg-name="CCTV17" group-title="高清频道",CCTV-17高清
+https://iptv.tsinghua.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1,tvg-logo="CHC3.jpg" tvg-id="15" tvg-name="CHC高清电影" group-title="高清频道",CHC高清电影
+https://iptv.tsinghua.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,tvg-logo="beijing.png" tvg-id="16" tvg-name="北京卫视" group-title="高清频道",北京卫视高清
+https://iptv.tsinghua.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1,tvg-logo="BTV文艺.png" tvg-id="17" tvg-name="BTV文艺" group-title="高清频道",北京文艺高清
+https://iptv.tsinghua.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1,tvg-logo="beijingjishi.png" tvg-id="18" tvg-name="北京纪实" group-title="高清频道",北京冬奥纪实高清
+https://iptv.tsinghua.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1,tvg-logo="BTV影视.png" tvg-id="19" tvg-name="BTV影视" group-title="高清频道",北京影视高清
+https://iptv.tsinghua.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1,tvg-logo="BTV新闻.png" tvg-id="20" tvg-name="BTV新闻" group-title="高清频道",北京新闻高清
+https://iptv.tsinghua.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1,tvg-logo="hunan.png" tvg-id="21" tvg-name="湖南卫视" group-title="高清频道",湖南卫视高清
+https://iptv.tsinghua.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1,tvg-logo="zhejiang.png" tvg-id="22" tvg-name="浙江卫视" group-title="高清频道",浙江卫视高清
+https://iptv.tsinghua.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1,tvg-logo="jiangsu.png" tvg-id="23" tvg-name="江苏卫视" group-title="高清频道",江苏卫视高清
+https://iptv.tsinghua.edu.cn/hls/jshd.m3u8
+#EXTINF:-1,tvg-logo="dongfang.png" tvg-id="24" tvg-name="东方卫视" group-title="高清频道",东方卫视高清
+https://iptv.tsinghua.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1,tvg-logo="anhui.png" tvg-id="25" tvg-name="安徽卫视" group-title="高清频道",安徽卫视高清
+https://iptv.tsinghua.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1,tvg-logo="heilongjiang.png" tvg-id="26" tvg-name="黑龙江卫视" group-title="高清频道",黑龙江卫视高清
+https://iptv.tsinghua.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1,tvg-logo="liaoning.png" tvg-id="27" tvg-name="辽宁卫视" group-title="高清频道",辽宁卫视高清
+https://iptv.tsinghua.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1,tvg-logo="shenzhen.png" tvg-id="28" tvg-name="深圳卫视" group-title="高清频道",深圳卫视高清
+https://iptv.tsinghua.edu.cn/hls/szhd.m3u8
+#EXTINF:-1,tvg-logo="guangdong.png" tvg-id="29" tvg-name="广东卫视" group-title="高清频道",广东卫视高清
+https://iptv.tsinghua.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1,tvg-logo="tianjin.png" tvg-id="30" tvg-name="天津卫视" group-title="高清频道",天津卫视高清
+https://iptv.tsinghua.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1,tvg-logo="hubei.png" tvg-id="31" tvg-name="湖北卫视" group-title="高清频道",湖北卫视高清
+https://iptv.tsinghua.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1,tvg-logo="shandong.png" tvg-id="32" tvg-name="山东卫视" group-title="高清频道",山东卫视高清
+https://iptv.tsinghua.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1,tvg-logo="chongqing.png" tvg-id="33" tvg-name="重庆卫视" group-title="高清频道",重庆卫视高清
+https://iptv.tsinghua.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1,tvg-logo="shanghaijishi.png" tvg-id="34" tvg-name="上海纪实" group-title="高清频道",上海纪实高清
+https://iptv.tsinghua.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1,tvg-logo="jinyingjishi.png" tvg-id="35" tvg-name="金鹰纪实" group-title="高清频道",金鹰纪实高清
+https://iptv.tsinghua.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1,tvg-logo="dongnan.png" tvg-id="36" tvg-name="东南卫视" group-title="高清频道",福建东南卫视高清
+https://iptv.tsinghua.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1,tvg-logo="dongnan.png" tvg-id="37" tvg-name="东南卫视" group-title="高清频道",四川卫视高清
+https://iptv.tsinghua.edu.cn/hls/schd.m3u8
+#EXTINF:-1,tvg-logo="hebei.png" tvg-id="38" tvg-name="河北卫视" group-title="高清频道",河北卫视高清
+https://iptv.tsinghua.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1,tvg-logo="jiangxi.png" tvg-id="39" tvg-name="江西卫视" group-title="高清频道",江西卫视高清
+https://iptv.tsinghua.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1,tvg-logo="henan.png" tvg-id="40" tvg-name="河南卫视" group-title="高清频道",河南卫视高清
+https://iptv.tsinghua.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1,tvg-logo="guangxi.png" tvg-id="41" tvg-name="广西卫视" group-title="高清频道",广西卫视高清
+https://iptv.tsinghua.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1,tvg-logo="jilin.png" tvg-id="42" tvg-name="吉林卫视" group-title="高清频道",吉林卫视高清
+https://iptv.tsinghua.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1,tvg-logo="中国教育1台.png" tvg-id="43" tvg-name="中国教育1台" group-title="高清频道",中国教育电视台1高清
+https://iptv.tsinghua.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1,tvg-logo="lvyou.png" tvg-id="44" tvg-name="旅游卫视" group-title="高清频道",海南卫视高清
+https://iptv.tsinghua.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1,tvg-logo="guizhou.png" tvg-id="45" tvg-name="贵州卫视" group-title="高清频道",贵州卫视高清
+https://iptv.tsinghua.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1,tvg-logo="zhejiang.png" tvg-id="46" tvg-name="浙江卫视" group-title="高清频道",卡通剧场高清
+https://iptv.tsinghua.edu.cn/hls/ktjchd.m3u8
+#EXTINF:-1,tvg-logo="zhejiang.png" tvg-id="47" tvg-name="浙江卫视" group-title="高清频道",大众影视高清
+https://iptv.tsinghua.edu.cn/hls/dzyshd.m3u8
+#EXTINF:-1,tvg-logo="zhejiang.png" tvg-id="48" tvg-name="浙江卫视" group-title="高清频道",家庭影院高清
+https://iptv.tsinghua.edu.cn/hls/jtyyhd.m3u8
+#EXTINF:-1,tvg-logo="zhejiang.png" tvg-id="49" tvg-name="浙江卫视" group-title="高清频道",家庭剧场高清
+https://iptv.tsinghua.edu.cn/hls/jtjchd.m3u8
+#EXTINF:-1,tvg-logo="cgtn.png" tvg-id="46" tvg-name="CGTN" group-title="高清频道",CGTN纪实高清
+https://iptv.tsinghua.edu.cn/hls/cgtndochd.m3u8
+#EXTINF:-1,tvg-logo="zqpd.png" tvg-id="47" tvg-name="足球频道" group-title="高清频道",足球频道
+https://iptv.tsinghua.edu.cn/hls/zqhd.m3u8
+#EXTINF:-1,tvg-logo="qhdst.png" tvg-id="48" tvg-name="清华电视台" group-title="特色频道",清华电视台
+https://iptv.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1,tvg-logo="fenghuangzixun.png" tvg-id="49" tvg-name="凤凰资讯" group-title="特色频道",凤凰资讯高清
+https://iptv.tsinghua.edu.cn/hls/fhzxhd.m3u8
+#EXTINF:-1,tvg-logo="fenghuangzhongwen.png" tvg-id="50" tvg-name="凤凰中文" group-title="特色频道",凤凰中文高清
+https://iptv.tsinghua.edu.cn/hls/fhzwhd.m3u8
+#EXTINF:-1,tvg-logo="fenghuangzixun.png" tvg-id="51" tvg-name="凤凰资讯" group-title="特色频道",凤凰资讯
+https://iptv.tsinghua.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1,tvg-logo="fenghuangzhongwen.png" tvg-id="52" tvg-name="凤凰中文" group-title="特色频道",凤凰中文
+https://iptv.tsinghua.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1,tvg-logo="fhdy.png" tvg-id="53" tvg-name="凤凰电影" group-title="特色频道",凤凰电影
+https://iptv.tsinghua.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1,tvg-logo="DiscoveryHD.png" tvg-id="54" tvg-name="Discovery" group-title="特色频道",Discovery
+https://iptv.tsinghua.edu.cn/hls/discovery.m3u8
+#EXTINF:-1,tvg-logo="natgeo.png" tvg-id="55" tvg-name="国家地理频道" group-title="特色频道",国家地理
+https://iptv.tsinghua.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1,tvg-logo="ChannelV.png" tvg-id="56" tvg-name="CHANNEL[V]" group-title="特色频道",Channel V
+https://iptv.tsinghua.edu.cn/hls/channelv.m3u8
+#EXTINF:-1,tvg-logo="xkws.png" tvg-id="57" tvg-name="星空卫视" group-title="特色频道",星空卫视
+https://iptv.tsinghua.edu.cn/hls/startv.m3u8
+#EXTINF:-1,tvg-logo="star-sports.png" tvg-id="58" tvg-name="Star Sports" group-title="特色频道",Star Sports
+https://iptv.tsinghua.edu.cn/hls/starsports.m3u8
+#EXTINF:-1,tvg-logo="CCTV1.png" tvg-id="59" tvg-name="CCTV1" group-title="央视标清",CCTV-1综合
+https://iptv.tsinghua.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1,tvg-logo="CCTV2.png" tvg-id="60" tvg-name="CCTV2" group-title="央视标清",CCTV-2财经
+https://iptv.tsinghua.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1,tvg-logo="CCTV3.png" tvg-id="61" tvg-name="CCTV3" group-title="央视标清",CCTV-3综艺
+https://iptv.tsinghua.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1,tvg-logo="CCTV4.png" tvg-id="62" tvg-name="CCTV4" group-title="央视标清",CCTV-4中文国际
+https://iptv.tsinghua.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1,tvg-logo="CCTV5.png" tvg-id="63" tvg-name="CCTV5" group-title="央视标清",CCTV-5体育
+https://iptv.tsinghua.edu.cn/hls/cctv5.m3u8
+#EXTINF:-1,tvg-logo="CCTV6.png" tvg-id="64" tvg-name="CCTV6" group-title="央视标清",CCTV-6电影
+https://iptv.tsinghua.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1,tvg-logo="CCTV7.png" tvg-id="65" tvg-name="CCTV7" group-title="央视标清",CCTV-7国防军事
+https://iptv.tsinghua.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1,tvg-logo="CCTV8.png" tvg-id="66" tvg-name="CCTV8" group-title="央视标清",CCTV-8电视剧
+https://iptv.tsinghua.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1,tvg-logo="CCTV9.png" tvg-id="67" tvg-name="CCTV9" group-title="央视标清",CCTV-9纪录
+https://iptv.tsinghua.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1,tvg-logo="CCTV10.png" tvg-id="68" tvg-name="CCTV10" group-title="央视标清",CCTV-10科教
+https://iptv.tsinghua.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1,tvg-logo="CCTV11.png" tvg-id="69" tvg-name="CCTV11" group-title="央视标清",CCTV-11戏曲
+https://iptv.tsinghua.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1,tvg-logo="CCTV12.png" tvg-id="70" tvg-name="CCTV12" group-title="央视标清",CCTV-12社会与法
+https://iptv.tsinghua.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1,tvg-logo="CCTV13.png" tvg-id="71" tvg-name="CCTV13" group-title="央视标清",CCTV-13新闻
+https://iptv.tsinghua.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1,tvg-logo="CCTV14.png" tvg-id="72" tvg-name="CCTV14" group-title="央视标清",CCTV-14少儿
+https://iptv.tsinghua.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1,tvg-logo="CCTV15.png" tvg-id="73" tvg-name="CCTV15" group-title="央视标清",CCTV-15音乐
+https://iptv.tsinghua.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1,tvg-logo="cgtn.png" tvg-id="74" tvg-name="CGTN" group-title="央视标清",CGTN
+https://iptv.tsinghua.edu.cn/hls/cctv16.m3u8
+#EXTINF:-1,tvg-logo="CCTV17.png" tvg-id="75" tvg-name="CCTV17" group-title="央视标清",CCTV-17农业农村
+https://iptv.tsinghua.edu.cn/hls/cctv17.m3u8
+#EXTINF:-1,tvg-logo="CCTVdiyijuchang.png" tvg-id="76" tvg-name="第一剧场" group-title="央视标清",第一剧场
+https://iptv.tsinghua.edu.cn/hls/dyjctv.m3u8
+#EXTINF:-1,tvg-logo="CCTBfengyun.png" tvg-id="77" tvg-name="风云剧场" group-title="央视标清",风云剧场
+https://iptv.tsinghua.edu.cn/hls/fyjctv.m3u8
+#EXTINF:-1,tvg-logo="CCTVfengyunyinyue.png" tvg-id="78" tvg-name="风云音乐" group-title="央视标清",风云音乐
+https://iptv.tsinghua.edu.cn/hls/fyyytv.m3u8
+#EXTINF:-1,tvg-logo="CCTVfengyunzuqiu.png" tvg-id="79" tvg-name="风云足球" group-title="央视标清",风云足球
+https://iptv.tsinghua.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1,tvg-logo="CCTVPAYFEE7.jpg" tvg-id="80" tvg-name="怀旧剧场" group-title="央视标清",怀旧剧场
+https://iptv.tsinghua.edu.cn/hls/hjjctv.m3u8
+#EXTINF:-1,tvg-logo="CCTVshijiedili.png" tvg-id="81" tvg-name="世界地理" group-title="央视标清",世界地理
+https://iptv.tsinghua.edu.cn/hls/sjdltv.m3u8
+#EXTINF:-1,tvg-logo="CCTVPAYFEE8.jpg" tvg-id="82" tvg-name="兵器科技" group-title="央视标清",兵器科技
+https://iptv.tsinghua.edu.cn/hls/gfjstv.m3u8
+#EXTINF:-1,tvg-logo="yswhjp,png" tvg-id="83" tvg-name="央视文化精品" group-title="央视标清",文化精品
+https://iptv.tsinghua.edu.cn/hls/whjptv.m3u8
+#EXTINF:-1,tvg-logo="CCTVlaogushi.png" tvg-id="84" tvg-name="老故事" group-title="央视标清",老故事
+https://iptv.tsinghua.edu.cn/hls/lgstv.m3u8
+#EXTINF:-1,tvg-logo="beijing.png" tvg-id="85" tvg-name="北京卫视" group-title="其他标清",北京卫视
+https://iptv.tsinghua.edu.cn/hls/btv1.m3u8
+#EXTINF:-1,tvg-logo="BTV文艺.png" tvg-id="86" tvg-name="BTV文艺" group-title="其他标清",北京文艺
+https://iptv.tsinghua.edu.cn/hls/btv2.m3u8
+#EXTINF:-1,tvg-logo="BTV科教.png" tvg-id="87" tvg-name="BTV科教" group-title="其他标清",北京科教
+https://iptv.tsinghua.edu.cn/hls/btv3.m3u8
+#EXTINF:-1,tvg-logo="BTV影视.png" tvg-id="88" tvg-name="BTV影视" group-title="其他标清",北京影视
+https://iptv.tsinghua.edu.cn/hls/btv4.m3u8
+#EXTINF:-1,tvg-logo="BTV财经.png" tvg-id="89" tvg-name="BTV财经" group-title="其他标清",北京财经
+https://iptv.tsinghua.edu.cn/hls/btv5.m3u8
+#EXTINF:-1,tvg-logo="BTV生活.png" tvg-id="90" tvg-name="BTV生活" group-title="其他标清",北京生活
+https://iptv.tsinghua.edu.cn/hls/btv7.m3u8
+#EXTINF:-1,tvg-logo="BTV青年.png" tvg-id="91" tvg-name="BTV青年" group-title="其他标清",北京青年
+https://iptv.tsinghua.edu.cn/hls/btv8.m3u8
+#EXTINF:-1,tvg-logo="BTV新闻.png" tvg-id="92" tvg-name="BTV新闻" group-title="其他标清",北京新闻
+https://iptv.tsinghua.edu.cn/hls/btv9.m3u8
+#EXTINF:-1,tvg-logo="kaku.png" tvg-id="93" tvg-name="卡酷动画" group-title="其他标清",北京卡酷少儿
+https://iptv.tsinghua.edu.cn/hls/btv10.m3u8
+#EXTINF:-1,tvg-logo="beijingjishi.png" tvg-id="94" tvg-name="北京纪实" group-title="其他标清",北京冬奥纪实
+https://iptv.tsinghua.edu.cn/hls/btv11.m3u8
+#EXTINF:-1,tvg-logo="zhejiang.png" tvg-id="95" tvg-name="浙江卫视" group-title="其他标清",浙江卫视
+https://iptv.tsinghua.edu.cn/hls/zjtv.m3u8
+#EXTINF:-1,tvg-logo="hunan.png" tvg-id="96" tvg-name="湖南卫视" group-title="其他标清",湖南卫视
+https://iptv.tsinghua.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1,tvg-logo="jiangsu.png" tvg-id="97" tvg-name="江苏卫视" group-title="其他标清",江苏卫视
+https://iptv.tsinghua.edu.cn/hls/jstv.m3u8
+#EXTINF:-1,tvg-logo="dongfang.png" tvg-id="98" tvg-name="东方卫视" group-title="其他标清",东方卫视
+https://iptv.tsinghua.edu.cn/hls/dftv.m3u8
+#EXTINF:-1,tvg-logo="shenzhen.png" tvg-id="99" tvg-name="深圳卫视" group-title="其他标清",深圳卫视
+https://iptv.tsinghua.edu.cn/hls/sztv.m3u8
+#EXTINF:-1,tvg-logo="anhui.png" tvg-id="100" tvg-name="安徽卫视" group-title="其他标清",安徽卫视
+https://iptv.tsinghua.edu.cn/hls/ahtv.m3u8
+#EXTINF:-1,tvg-logo="henan.png" tvg-id="101" tvg-name="河南卫视" group-title="其他标清",河南卫视
+https://iptv.tsinghua.edu.cn/hls/hntv.m3u8
+#EXTINF:-1,tvg-logo="shanxi.png" tvg-id="102" tvg-name="陕西卫视" group-title="其他标清",陕西卫视
+https://iptv.tsinghua.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1,tvg-logo="jilin.png" tvg-id="103" tvg-name="吉林卫视" group-title="其他标清",吉林卫视
+https://iptv.tsinghua.edu.cn/hls/jltv.m3u8
+#EXTINF:-1,tvg-logo="guangdong.png" tvg-id="104" tvg-name="广东卫视" group-title="其他标清",广东卫视
+https://iptv.tsinghua.edu.cn/hls/gdtv.m3u8
+#EXTINF:-1,tvg-logo="shandong.png" tvg-id="105" tvg-name="山东卫视" group-title="其他标清",山东卫视
+https://iptv.tsinghua.edu.cn/hls/sdtv.m3u8
+#EXTINF:-1,tvg-logo="hubei.png" tvg-id="106" tvg-name="湖北卫视" group-title="其他标清",湖北卫视
+https://iptv.tsinghua.edu.cn/hls/hbtv.m3u8
+#EXTINF:-1,tvg-logo="guangxi.png" tvg-id="107" tvg-name="广西卫视" group-title="其他标清",广西卫视
+https://iptv.tsinghua.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1,tvg-logo="hebei.png" tvg-id="108" tvg-name="河北卫视" group-title="其他标清",河北卫视
+https://iptv.tsinghua.edu.cn/hls/hebtv.m3u8
+#EXTINF:-1,tvg-logo="xizang.png" tvg-id="109" tvg-name="西藏卫视" group-title="其他标清",西藏卫视
+https://iptv.tsinghua.edu.cn/hls/xztv.m3u8
+#EXTINF:-1,tvg-logo="neimeng.png" tvg-id="110" tvg-name="内蒙古卫视" group-title="其他标清",内蒙古卫视
+https://iptv.tsinghua.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1,tvg-logo="qinghai.png" tvg-id="111" tvg-name="青海卫视" group-title="其他标清",青海卫视
+https://iptv.tsinghua.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1,tvg-logo="sichuan.png" tvg-id="112" tvg-name="四川卫视" group-title="其他标清",四川卫视
+https://iptv.tsinghua.edu.cn/hls/sctv.m3u8
+#EXTINF:-1,tvg-logo="tianjin.png" tvg-id="113" tvg-name="天津卫视" group-title="其他标清",天津卫视
+https://iptv.tsinghua.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1,tvg-logo="shanxi_.png" tvg-id="114" tvg-name="山西卫视" group-title="其他标清",山西卫视
+https://iptv.tsinghua.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1,tvg-logo="liaoning.png" tvg-id="115" tvg-name="辽宁卫视" group-title="其他标清",辽宁卫视
+https://iptv.tsinghua.edu.cn/hls/lntv.m3u8
+#EXTINF:-1,tvg-logo="xiamen.png" tvg-id="116" tvg-name="厦门卫视" group-title="其他标清",厦门卫视
+https://iptv.tsinghua.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1,tvg-logo="xinjiang.png" tvg-id="117" tvg-name="新疆卫视" group-title="其他标清",新疆卫视
+https://iptv.tsinghua.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1,tvg-logo="heilongjiang.png" tvg-id="118" tvg-name="黑龙江卫视" group-title="其他标清",黑龙江卫视
+https://iptv.tsinghua.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1,tvg-logo="yunnan.png" tvg-id="119" tvg-name="云南卫视" group-title="其他标清",云南卫视
+https://iptv.tsinghua.edu.cn/hls/yntv.m3u8
+#EXTINF:-1,tvg-logo="jiangxi.png" tvg-id="120" tvg-name="江西卫视" group-title="其他标清",江西卫视
+https://iptv.tsinghua.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1,tvg-logo="dongnan.png" tvg-id="121" tvg-name="东南卫视" group-title="其他标清",福建东南卫视
+https://iptv.tsinghua.edu.cn/hls/dntv.m3u8
+#EXTINF:-1,tvg-logo="guizhou.png" tvg-id="122" tvg-name="贵州卫视" group-title="其他标清",贵州卫视
+https://iptv.tsinghua.edu.cn/hls/gztv.m3u8
+#EXTINF:-1,tvg-logo="ningxia.png" tvg-id="123" tvg-name="宁夏卫视" group-title="其他标清",宁夏卫视
+https://iptv.tsinghua.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1,tvg-logo="gansu.png" tvg-id="124" tvg-name="甘肃卫视" group-title="其他标清",甘肃卫视
+https://iptv.tsinghua.edu.cn/hls/gstv.m3u8
+#EXTINF:-1,tvg-logo="chongqing.png" tvg-id="125" tvg-name="重庆卫视" group-title="其他标清",重庆卫视
+https://iptv.tsinghua.edu.cn/hls/cqtv.m3u8
+#EXTINF:-1,tvg-logo="bingtuan.png" tvg-id="126" tvg-name="兵团卫视" group-title="其他标清",兵团卫视
+https://iptv.tsinghua.edu.cn/hls/bttv.m3u8
+#EXTINF:-1,tvg-logo="YANBIAN1.png" tvg-id="127" tvg-name="延边卫视" group-title="其他标清",延边卫视
+https://iptv.tsinghua.edu.cn/hls/ybtv.m3u8
+#EXTINF:-1,tvg-logo="sansha.png" tvg-id="128" tvg-name="三沙卫视" group-title="其他标清",三沙卫视
+https://iptv.tsinghua.edu.cn/hls/sstv.m3u8
+#EXTINF:-1,tvg-logo="lvyou.png" tvg-id="129" tvg-name="旅游卫视" group-title="其他标清",海南卫视
+https://iptv.tsinghua.edu.cn/hls/lytv.m3u8
+#EXTINF:-1,tvg-logo="CHC2.jpg" tvg-id="130" tvg-name="CHC家庭电影" group-title="其他标清",CHC家庭影院
+https://iptv.tsinghua.edu.cn/hls/chctv.m3u8
+#EXTINF:-1,tvg-logo="CHC1.jpg" tvg-id="131" tvg-name="CHC动作电影" group-title="其他标清",CHC动作电影
+https://iptv.tsinghua.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1,tvg-logo="jinyingkatong.png" tvg-id="132" tvg-name="金鹰卡通" group-title="其他标清",金鹰卡通
+https://iptv.tsinghua.edu.cn/hls/jykttv.m3u8
+#EXTINF:-1,tvg-logo="youman.png" tvg-id="133" tvg-name="优漫卡通" group-title="其他标清",优漫卡通
+https://iptv.tsinghua.edu.cn/hls/ymkttv.m3u8
+#EXTINF:-1,tvg-logo="xindongman.png" tvg-id="134" tvg-name="新动漫" group-title="其他标清",新动漫
+https://iptv.tsinghua.edu.cn/hls/xdmtv.m3u8
+#EXTINF:-1,tvg-logo="tajc.png" tvg-id="135" tvg-name="探案剧场" group-title="其他标清",探案剧场
+https://iptv.tsinghua.edu.cn/hls/tajctv.m3u8
+#EXTINF:-1,tvg-logo="LNTV3.jpg" tvg-id="136" tvg-name="辽宁影视剧" group-title="其他标清",辽宁影视剧
+https://iptv.tsinghua.edu.cn/hls/lnysjtv.m3u8
+#EXTINF:-1,tvg-logo="LNTV-SPORT.jpg" tvg-id="137" tvg-name="辽宁体育" group-title="其他标清",辽宁体育
+https://iptv.tsinghua.edu.cn/hls/lntytv.m3u8
+#EXTINF:-1,tvg-logo="中国教育1台.png" tvg-id="138" tvg-name="中国教育1台" group-title="其他标清",中国教育电视台1
+https://iptv.tsinghua.edu.cn/hls/cetv1.m3u8
+#EXTINF:-1,tvg-logo="中国教育2台.png" tvg-id="139" tvg-name="中国教育2台" group-title="其他标清",中国教育电视台3
+https://iptv.tsinghua.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1,tvg-logo="中国教育3台.png" tvg-id="140" tvg-name="中国教育3台" group-title="其他标清",中国教育电视台4
+https://iptv.tsinghua.edu.cn/hls/cetv4.m3u8
+#EXTINF:-1,tvg-logo="sdjydst.png" tvg-id="141" tvg-name="山东教育电视台" group-title="其他标清",山东教育电视台
+https://iptv.tsinghua.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1,tvg-logo="cnrzgzsgb.png" tvg-id="142" tvg-name="央广中国之声" group-title="广播",央广中国之声
+https://iptv.tsinghua.edu.cn/hls/cnrzgzsgb.m3u8
+#EXTINF:-1,tvg-logo="cnrjjzsgb.png" tvg-id="143" tvg-name="央广经济之声" group-title="广播",央广经济之声
+https://iptv.tsinghua.edu.cn/hls/cnrjjzsgb.m3u8
+#EXTINF:-1,tvg-logo="cnryyzsgb.png" tvg-id="144" tvg-name="央广音乐之声" group-title="广播",央广音乐之声
+https://iptv.tsinghua.edu.cn/hls/cnryyzsgb.m3u8
+#EXTINF:-1,tvg-logo="cnrdszsgb.png" tvg-id="145" tvg-name="央广都市之声" group-title="广播",央广都市之声
+https://iptv.tsinghua.edu.cn/hls/cnrdszsgb.m3u8
+#EXTINF:-1,tvg-logo="cnrwyzsgb.png" tvg-id="146" tvg-name="央广文艺之声" group-title="广播",央广文艺之声
+https://iptv.tsinghua.edu.cn/hls/cnrwyzsgb.m3u8
+#EXTINF:-1,tvg-logo="cnrylgb.png" tvg-id="147" tvg-name="央广娱乐广播" group-title="广播",央广娱乐广播
+https://iptv.tsinghua.edu.cn/hls/cnrylgb.m3u8
+#EXTINF:-1,tvg-logo="cnrjtgb.png" tvg-id="148" tvg-name="央广交通广播" group-title="广播",央广交通广播
+https://iptv.tsinghua.edu.cn/hls/cnrjtgb.m3u8
+#EXTINF:-1,tvg-logo="cnrxgzsgb.png" tvg-id="149" tvg-name="央广香港广播" group-title="广播",央广香港广播
+https://iptv.tsinghua.edu.cn/hls/cnrxgzsgb.m3u8
+#EXTINF:-1,tvg-logo="bjxwgb.png" tvg-id="150" tvg-name="北京新闻" group-title="广播",北京新闻
+https://iptv.tsinghua.edu.cn/hls/bjxwgb.m3u8
+#EXTINF:-1,tvg-logo="rmgbdt.png" tvg-id="151" tvg-name="北京故事广播" group-title="广播",北京故事广播
+https://iptv.tsinghua.edu.cn/hls/bjgsgb.m3u8
+#EXTINF:-1,tvg-logo="bjwygb.png" tvg-id="152" tvg-name="北京文艺广播" group-title="广播",北京文艺广播
+https://iptv.tsinghua.edu.cn/hls/bjwygb.m3u8
+#EXTINF:-1,tvg-logo="bjcsgb.png" tvg-id="153" tvg-name="北京城市" group-title="广播",北京城市
+https://iptv.tsinghua.edu.cn/hls/bjcsgb.m3u8
+#EXTINF:-1,tvg-logo="bjtygb.png" tvg-id="154" tvg-name="北京体育" group-title="广播",北京体育
+https://iptv.tsinghua.edu.cn/hls/bjtygb.m3u8
+#EXTINF:-1,tvg-logo="bjjtgb.png" tvg-id="155" tvg-name="北京交通" group-title="广播",北京交通
+https://iptv.tsinghua.edu.cn/hls/bjjtgb.m3u8
+#EXTINF:-1,tvg-logo="bjyygb.png" tvg-id="156" tvg-name="北京音乐" group-title="广播",北京音乐
+https://iptv.tsinghua.edu.cn/hls/bjyygb.m3u8
+#EXTINF:-1,tvg-logo="rmgbdt.png" tvg-id="157" tvg-name="北京古典音乐" group-title="广播",北京古典音乐
+https://iptv.tsinghua.edu.cn/hls/bjgdyygb.m3u8
+#EXTINF:-1,tvg-logo="bjwaiyugb.png" tvg-id="158" tvg-name="北京外语" group-title="广播",北京外语
+https://iptv.tsinghua.edu.cn/hls/bjwaiyugb.m3u8
+#EXTINF:-1,tvg-logo="rmgbdt.png" tvg-id="159" tvg-name="北京教学" group-title="广播",北京教学
+https://iptv.tsinghua.edu.cn/hls/bjjxgb.m3u8
+#EXTINF:-1,tvg-logo="rmgbdt.png" tvg-id="160" tvg-name="北京长书" group-title="广播",北京长书
+https://iptv.tsinghua.edu.cn/hls/bjchangshugb.m3u8
+#EXTINF:-1,tvg-logo="rmgbdt.png" tvg-id="161" tvg-name="北京戏曲" group-title="广播",北京戏曲
+https://iptv.tsinghua.edu.cn/hls/bjxqgb.m3u8
+#EXTINF:-1,tvg-logo="rmgbdt.png" tvg-id="162" tvg-name="北京欢乐时光" group-title="广播",北京欢乐时光
+https://iptv.tsinghua.edu.cn/hls/bjhlsggb.m3u8
+#EXTINF:-1,tvg-logo="rmgbdt.png" tvg-id="163" tvg-name="北京怀旧金曲" group-title="广播",北京怀旧金曲
+https://iptv.tsinghua.edu.cn/hls/bjhjjqgb.m3u8
+
